@@ -1,0 +1,10 @@
+.swiper-scrollbar-drag{
+    width: 190px !important; 
+}
+.swiper{
+    padding: 20px !important;
+    margin-bottom: 40px;
+}
+.swiper-button-next,.swiper-button-prev{
+    color: gray !important;
+}
